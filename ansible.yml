@@ -1,6 +1,6 @@
 ---
  - name: "Playbook to test the inventory_hostname and ansible_hostname"
-   hosts: localhost:192.168.1.5
+   hosts: localhost:192.168.1.9
    tasks:
 
     - name: What is my inventory_hostname
